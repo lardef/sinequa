@@ -1,6 +1,6 @@
 ﻿
 <#
-	.SYNOPSIS
+	.SYNOPSIS 
 		Installs Sinequa on the given nodes.
 	.DESCRIPTION
 		This script runs as a VM extension and installs Sinequa on the cluster nodes. It can be used to setup either a single VM (when run as VM extension) or a cluster (when run from within an ARM template)
